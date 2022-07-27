@@ -2,6 +2,7 @@
 
 Primero, ejecute el servidor de desarrollo:
 
+yarn install
 yarn run dev
 
 Abir [http://localhost:3000](http://localhost:3000) en su navegador para ver el resultado.
