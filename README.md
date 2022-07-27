@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Iniciar la aplicación
 
-## Getting Started
+Primero, ejecute el servidor de desarrollo:
 
-First, run the development server:
+yarn run dev
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Abir [http://localhost:3000](http://localhost:3000) en su navegador para ver el resultado.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Ejecutar los test
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+yarn run test
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+\*\* Aclaración: Hay algunas pruebas de Snapshots que pueden fallar. Presionar u para actualizarlo y todo funcionara a la perfección.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Tecnologias usadas
 
-## Learn More
+-- NextJS: es un pequeño framework construido sobre React.js que viene a ayudar a reducir esta fatiga. ¿Cómo? Next nos permite, instalando una sola dependencia, tener configurado todo lo que necesitamos para crear una aplicación de React usando Babel, Webpack, server render y muchas otras técnicas como HMR o separación de código y… ¡hasta hace más fácil hacer deploy de nuestras aplicaciones!
 
-To learn more about Next.js, take a look at the following resources:
+-- NextUI: NextUI es un marco moderno de React UI que le permite crear sitios web/aplicaciones hermosos y rápidos, independientemente de su experiencia de diseño. Puede crear una hermosa interfaz de usuario en su aplicación React y Nextjs con solo una pequeña personalización App.jsxpara cargar el proveedor de NextUI. Tiene muchas características interesantes, por lo que muchos desarrolladores lo adoran y lo utilizan.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-- SWR: El nombre “SWR” es derivado de stale-while-revalidate, una estrategia de invalidación de caché HTTP popularizada por HTTP RFC 5861. SWR es una estrategia para devolver primero los datos en caché (obsoletos), luego envíe la solicitud de recuperación (revalidación), y finalmente entregue los datos actualizados.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## A tener en cuenta
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-- Se usaron estas tecnologias a modo de ejemplo. Pero se podrían haber utilizado otras.
+-- Se podria haber utilizado páginas estaticas con NextJs para todas las paginas de personajes de Rick and Morty ya que no cambian en el tiempo pero decidi hacerlo dinámico como prueba.
+-- Se realizaron pruebas en algunos componentes solamente para probar las diferentes tipos y opciones de pruebas. A modo de ejemplo.
+-- Se eligio esta estrucutura de carpetas por ser una aplicación chica pero si la aplicación es grande se recomienda modularizar y usar otras estrategías.
+-- Se utilizo otro método de grilla para la pantalla de favoritos como muestra.
+-- Se utilizo tema dark para mostrar los diferentes temas que se pueden aplicar.

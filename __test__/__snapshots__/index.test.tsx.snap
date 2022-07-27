@@ -1,0 +1,354 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders homepage unchanged 1`] = `
+<div>
+  <div
+    class="nextui-c-fdHeMm nextui-c-fdHeMm-dwxLNB-responsive-true nextui-c-fdHeMm-idLFEXm-css"
+  >
+    <span
+      style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+    >
+      <span
+        style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+      >
+        <img
+          alt=""
+          aria-hidden="true"
+          src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2770%27%20height=%2770%27/%3e"
+          style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+        />
+      </span>
+      <img
+        alt="Rick and Morty"
+        data-nimg="intrinsic"
+        decoding="async"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+      />
+      <noscript />
+    </span>
+    <span
+      style="box-sizing: border-box; display: inline-block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"
+    >
+      <span
+        style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"
+      >
+        <img
+          alt=""
+          aria-hidden="true"
+          src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2770%27%20height=%2770%27/%3e"
+          style="display: block; max-width: 100%; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"
+        />
+      </span>
+      <img
+        alt="Rick and Morty"
+        data-nimg="intrinsic"
+        decoding="async"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+      />
+      <noscript />
+    </span>
+    <a
+      class="nextui-c-gUrcXm nextui-c-gUrcXm-eAdznm-color-default nextui-c-gUrcXm-iFdQKc-animated-true"
+      href="/"
+    >
+      <h2
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css"
+      >
+        R
+      </h2>
+      <h3
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css"
+      >
+        ick 
+      </h3>
+      <h3
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css"
+      >
+        and 
+      </h3>
+      <h2
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css"
+      >
+        M
+      </h2>
+      <h3
+        class="nextui-c-PJLV nextui-c-PJLV-ijXuRFq-css"
+      >
+        orty
+      </h3>
+    </a>
+    <span
+      aria-hidden="true"
+      class="nextui-c-gNVTSf nextui-c-gNVTSf-hakyQ-inline-false nextui-c-gNVTSf-ifQmmYN-css"
+    />
+    <a
+      class="nextui-c-gUrcXm nextui-c-gUrcXm-eAdznm-color-default nextui-c-gUrcXm-iFdQKc-animated-true nextui-c-gUrcXm-ihdmrQw-css"
+      href="/favorites"
+    >
+      <p
+        class="nextui-c-PJLV nextui-c-PJLV-ilemjbo-css"
+      >
+        Favoritos
+      </p>
+    </a>
+  </div>
+  <div
+    class="nextui-c-kRHeuF nextui-c-kRHeuF-ijDEIix-css nextui-grid-item nextui-grid-container"
+  >
+    <div
+      class="nextui-c-kRHeuF nextui-c-kRHeuF-idCgoQe-css nextui-grid-item xs"
+    >
+      <div
+        class="nextui-c-fdHeMm nextui-c-fdHeMm-dwxLNB-responsive-true nextui-c-fdHeMm-idTimDF-css"
+      >
+        <div
+          class="nextui-c-iwmZdB nextui-c-iwmZdB-jTfqsF-helperColor-default nextui-c-iwmZdB-dpkacN-borderWeight-normal nextui-c-iwmZdB-gOvjVW-size-md nextui-c-iwmZdB-ifGHEql-css nextui-input-main-container nextui-input-main-container--normal"
+          data-state="normal"
+        >
+          <div
+            class="nextui-c-ghxhhI nextui-c-ghxhhI-fjttfO-isTextarea-false nextui-c-ghxhhI-iNKybL-animated-true nextui-input-container nextui-input-container--normal nextui-input-container--input"
+          >
+            <label
+              class="nextui-c-eXOOPO nextui-c-eXOOPO-dOamyD-bordered-true nextui-c-eXOOPO-iNKybL-shadow-true nextui-c-eXOOPO-ccrOPm-underlined-false nextui-c-eXOOPO-lkBNdM-isTextarea-false nextui-c-eXOOPO-eNajNl-cv nextui-input-wrapper nextui-input-wrapper--normal nextui-input-wrapper--bordered nextui-input-wrapper--shadow"
+            >
+              <span
+                class="nextui-c-PJLV nextui-c-iFHsrU nextui-input-placeholder"
+              >
+                Buscar personaje
+              </span>
+              <input
+                aria-multiline="false"
+                aria-placeholder="Buscar personaje"
+                aria-readonly="false"
+                aria-required="false"
+                autocomplete="off"
+                class="nextui-c-jeuecp nextui-c-jeuecp-bXqash-bordered-true nextui-input"
+                data-state="normal"
+                id="react-aria6200943320-1"
+                placeholder="Buscar personaje"
+                type="text"
+                value=""
+              />
+            </label>
+          </div>
+          <div
+            class="nextui-c-gJvMas nextui-input-helper-text-container"
+          />
+        </div>
+        <span
+          aria-hidden="true"
+          class="nextui-c-gNVTSf nextui-c-gNVTSf-hakyQ-inline-false nextui-c-gNVTSf-ictpDZF-css"
+        />
+        <div
+          class="nextui-c-hPzDAx nextui-c-huiNHE nextui-c-hPzDAx-eLdNZT-borderWeight-light nextui-c-hPzDAx-jBQhgJ-divider-true nextui-c-hPzDAx-iIEvbn-bordered-true nextui-c-hPzDAx-kMkCGX-animated-true nextui-c-hPzDAx-TDdeu-visible-false nextui-collapse nextui-collapse--closed"
+          data-state="closed"
+          tabindex="-1"
+        >
+          <div
+            aria-controls="react-aria6200943320-4"
+            aria-disabled="false"
+            aria-expanded="false"
+            class="nextui-c-lfcDHB nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-collapse-view"
+            data-state="closed"
+            id="react-aria6200943320-3"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="nextui-collapse-title-container"
+            >
+              <div
+                class="nextui-collapse-title-content"
+              >
+                <h3
+                  class="nextui-collapse-title"
+                >
+                  Estado
+                </h3>
+                <div
+                  class="nextui-collapse-subtitle"
+                >
+                  Filtro por estado
+                </div>
+              </div>
+              <div
+                class="nextui-collapse-title-content-right"
+              >
+                <svg
+                  class="nextui-c-fUXRSc nextui-collapse-icon"
+                  fill="none"
+                  focusable="false"
+                  height="20"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M15.5 19l-7-7 7-7"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="1.5"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="nextui-c-dJMBOt nextui-c-dJMBOt-ielLSBX-css"
+          >
+            <div
+              class="nextui-expand-content"
+            >
+              <div
+                aria-labelledby="react-aria6200943320-3"
+                class="nextui-c-fMAxGR nextui-collapse-content"
+                id="react-aria6200943320-4"
+                role="region"
+                tabindex="-1"
+              >
+                <div
+                  aria-orientation="vertical"
+                  class="nextui-c-iZLPXV nextui-c-iZLPXV-kWtHZW-size-md nextui-c-iZLPXV-icsWWxC-css nextui-radio-group"
+                  id="react-aria6200943320-5"
+                  role="radiogroup"
+                >
+                  <div
+                    class="nextui-c-fixGjY nextui-c-fixGjY-jzcjqC-isRow-false nextui-radio-group-items"
+                    role="presentation"
+                  >
+                    <label
+                      class="nextui-c-evidrZ nextui-c-evidrZ-fqNzuY-color-default nextui-c-evidrZ-cNjeeG-size-md nextui-c-evidrZ-doEHUf-isSquared-true nextui-c-evidrZ-bOFUIO-disableAnimation-false nextui-radio-label nextui-radio--uncheked"
+                      data-state="uncheked"
+                    >
+                      <div
+                        class="nextui-c-iJNdJu nextui-radio-container"
+                      >
+                        <span
+                          class="nextui-c-kgjvqv nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-radio-point"
+                        >
+                          <div
+                            style="border: 0px; clip-path: inset(50%); height: 1px; margin: 0px -1px -1px 0px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"
+                          >
+                            <input
+                              class="nextui-radio-input"
+                              name="react-aria6200943320-7"
+                              tabindex="0"
+                              type="radio"
+                              value="Alive"
+                            />
+                          </div>
+                        </span>
+                        <span
+                          class="nextui-c-hPBoDr nextui-c-hPBoDr-cyFBRX-color-default nextui-radio-label"
+                        >
+                          Alive
+                        </span>
+                      </div>
+                    </label>
+                    <label
+                      class="nextui-c-evidrZ nextui-c-evidrZ-fqNzuY-color-default nextui-c-evidrZ-cNjeeG-size-md nextui-c-evidrZ-doEHUf-isSquared-true nextui-c-evidrZ-bOFUIO-disableAnimation-false nextui-radio-label nextui-radio--uncheked"
+                      data-state="uncheked"
+                    >
+                      <div
+                        class="nextui-c-iJNdJu nextui-radio-container"
+                      >
+                        <span
+                          class="nextui-c-kgjvqv nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-radio-point"
+                        >
+                          <div
+                            style="border: 0px; clip-path: inset(50%); height: 1px; margin: 0px -1px -1px 0px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"
+                          >
+                            <input
+                              class="nextui-radio-input"
+                              name="react-aria6200943320-7"
+                              tabindex="0"
+                              type="radio"
+                              value="Dead"
+                            />
+                          </div>
+                        </span>
+                        <span
+                          class="nextui-c-hPBoDr nextui-c-hPBoDr-cyFBRX-color-default nextui-radio-label"
+                        >
+                          Dead
+                        </span>
+                      </div>
+                    </label>
+                    <label
+                      class="nextui-c-evidrZ nextui-c-evidrZ-fqNzuY-color-default nextui-c-evidrZ-cNjeeG-size-md nextui-c-evidrZ-doEHUf-isSquared-true nextui-c-evidrZ-bOFUIO-disableAnimation-false nextui-radio-label nextui-radio--uncheked"
+                      data-state="uncheked"
+                    >
+                      <div
+                        class="nextui-c-iJNdJu nextui-radio-container"
+                      >
+                        <span
+                          class="nextui-c-kgjvqv nextui-c-PJLV nextui-c-PJLV-gulvcB-isFocusVisible-false nextui-radio-point"
+                        >
+                          <div
+                            style="border: 0px; clip-path: inset(50%); height: 1px; margin: 0px -1px -1px 0px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap;"
+                          >
+                            <input
+                              class="nextui-radio-input"
+                              name="react-aria6200943320-7"
+                              tabindex="0"
+                              type="radio"
+                              value="unknown"
+                            />
+                          </div>
+                        </span>
+                        <span
+                          class="nextui-c-hPBoDr nextui-c-hPBoDr-cyFBRX-color-default nextui-radio-label"
+                        >
+                          Unknown
+                        </span>
+                      </div>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="nextui-c-kRHeuF nextui-c-kRHeuF-ijTmoCC-css nextui-grid-item xs"
+    >
+      <main
+        style="padding: 0px 20px;"
+      >
+        <div
+          class="nextui-c-fdHeMm nextui-c-fdHeMm-dwxLNB-responsive-true nextui-c-fdHeMm-idBtKtM-css"
+        >
+          <h2
+            class="nextui-c-PJLV nextui-c-PJLV-ibjwzEp-css"
+          >
+            Cargando...
+          </h2>
+          <div
+            class="nextui-c-bOoPrE nextui-c-bOoPrE-iWdsRK-color-default nextui-c-bOoPrE-fQoxSm-textColor-default"
+          >
+            <span
+              aria-label="Loading"
+              class="nextui-c-chTLhx nextui-c-chTLhx-cPGQpm-size-md nextui-c-chTLhx-cGhcKQ-type-points nextui-c-chTLhx-dhbJvz-cv nextui-c-chTLhx-iPJLV-css nextui-loading nextui-loading-points"
+            >
+              <i
+                class="_1"
+              />
+              <i
+                class="_2"
+              />
+              <i
+                class="_3"
+              />
+            </span>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>
+`;
